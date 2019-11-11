@@ -6,7 +6,7 @@
 1. Set up a basic GET route
 1. Use nodemon to restart your sever when your code changes
 1. Use URL and Query Parameters
-2. Implement ejs templates (Embedded JS)
+
 
 <br>
 
